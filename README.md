@@ -12,11 +12,11 @@
 
 
 
-- 👯 I’m looking to collaborate on **APIs projects**
+- 👯 I’m looking to collaborate on **API projects**
 
 
 
-- 🤝 I’m looking for **More APIs & React projects**
+- 🤝 I’m looking for **More API & React projects**
 
 
 
