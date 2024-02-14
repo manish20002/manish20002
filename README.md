@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manish Thirani</h1>
 
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A passionate Full-Stack developer</h3>
 
-
+<p><img align="center" src=https://github.com/manish20002/webpages/assets/73772706/78a1a136-7a26-42b7-8c82-dc105d46567e alt="manish20002" /></p>
 
 - 🔭 I’m currently studying as **B.COM (COMPUTER APPLICATION)**
 
