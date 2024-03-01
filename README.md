@@ -18,9 +18,13 @@
 
 - 🤝 I’m looking for **More API & React projects**
 
+  
+
+- 📑 My Resume **[Manish Thirani](https://drive.google.com/file/d/1jSdkV0KBDB29P_k1qDgG7vHUHqVD_Uch/view?usp=sharing)**
 
 
-- 💬 Ask me about **React**
+
+- 💬 Ask me about **React,JavaScript**
 
 
 
